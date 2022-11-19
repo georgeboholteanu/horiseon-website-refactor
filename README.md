@@ -13,6 +13,6 @@ The app is designed for a marketing agency following accessibility standards in 
 
 https://georgeboholteanu.github.io/horiseon-website-refactor/
 
-## Github URL
+## Github Repo
 
 https://github.com/georgeboholteanu/horiseon-website-refactor
