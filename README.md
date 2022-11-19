@@ -15,4 +15,4 @@ https://georgeboholteanu.github.io/horiseon-website-refactor/
 
 ## Github URL
 
-https://github.com/georgeboholteanu/Horiseon-website-refactor
+https://github.com/georgeboholteanu/horiseon-website-refactor
