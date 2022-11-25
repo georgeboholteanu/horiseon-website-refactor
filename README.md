@@ -2,9 +2,10 @@
 
 ## Description
 
-The app is designed for a marketing agency following accessibility standards in order to be optimized for search engines.
+The app is designed for a marketing agency and benefits of SEO, including Semantic HTML and image accesible attributes.
 
-## Preview
+## Moch-up
+The following image shows the web application's appearance and functionality:
 
 ![](/assets/Horiseon-demo.png)
 
